@@ -11,11 +11,11 @@
     </a>
     </p> 
 
-    
-``` diff
 
 ![](gif.gif)
 
+    
+``` diff
 - 💻  I'm a front-end developer and infosec enthusiast 
 ! 🍓  I'm 23 years old
 - 📌  Currently based in Rio de Janeiro, Brazil
