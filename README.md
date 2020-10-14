@@ -1,6 +1,6 @@
-```diff
- Hello, I'm Jasmine! ✨ 
-```
+
+<h1> Hello, I'm Jasmine! ✨ </h1>
+
 <p align = left>
  <a href="https://github.com/jasmineguimaraes?tab=repositories">
       <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" alt="my projects"/>
@@ -19,7 +19,9 @@
 - 💻  I'm a front-end developer and infosec enthusiast 
 ! 🍓  I'm 23 years old
 - 📌  Currently based in Rio de Janeiro, Brazil
-! 📚 Information Systems @UNIRIO & Cybersecurity @Estácio de Sá
+! 🎓 Information Systems undegrad @ UNIRIO & Cybersecurity undergrad @ Estácio de Sá
+- 📚 mySQL, React, Javascript & PHP
+!💕 I enjoy good tv shows and films, cooking my own food and playing videogames
 - 📭 Find me at jasmineguimaraes@gmail.com
 ```
 
