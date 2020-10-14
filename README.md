@@ -1,7 +1,7 @@
 ```diff
  Hello, I'm Jasmine! ✨ 
 ```
-<p align = center>
+<p align = left>
  <a href="https://github.com/jasmineguimaraes?tab=repositories">
       <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" alt="my projects"/>
     </a> 
