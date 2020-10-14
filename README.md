@@ -2,9 +2,14 @@
  Hello, I'm Jasmine! ✨
 ```
 <p align = center>
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jasmineguimaraes?tab=repositories)](https://github.com/jasmineguimaraes?tab=repositories)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasmine-guimarães-706371122/)](https://www.linkedin.com/in/jasmine-guimarães-706371122/)
-  </p> 
+ <a href="https://github.com/jasmineguimaraes?tab=repositories">
+      <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" alt="my projects"/>
+    </a> 
+   
+  <a href="https://www.linkedin.com/in/jasmine-guimarães-706371122/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link" alt="my projects"/>
+    </a>
+    </p> 
 
 ``` diff
 - 💻  I'm a front-end developer and infosec enthusiast 
