@@ -18,5 +18,10 @@
 ! 📚 Information Systems @UNIRIO & Cybersecurity @Estácio de Sá
 - 📭 Find me at jasmineguimaraes@gmail.com
 ```
+<p align = center>
+<a href="https://linkedin.com/in/linkedin.com/in/jasmine-guimarães-706371122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/jasmine-guimarães-706371122/" height="30" width="40" /></a>
+ <a href="https://github.com/jasmineguimaraes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/jasmineguimaraes" height="30" width="40" /></a>
+</p>
+
 
  
