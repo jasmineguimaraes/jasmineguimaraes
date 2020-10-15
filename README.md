@@ -12,7 +12,7 @@
     </p> 
 
 
- <img align="left" height="200" width ="200" src="gif.gif"/>
+ <img align="left" height="200" width ="200" src="giff.gif"/>
 
     
 ``` diff
