@@ -24,10 +24,7 @@
 !💕 I enjoy good tv shows and films, cooking my own food and playing videogames
 - 📭 Find me at jasmineguimaraes@gmail.com
 ```
-<br>
-<br>
-<br>
-<br>
+
   <p align =center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineguimaraes&layout=compact" alt="jasmineguimaraes" /></p> 
 <p align = center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineguimaraes&show_icons=true" alt="jasmineguimaraes" /></p>
 
