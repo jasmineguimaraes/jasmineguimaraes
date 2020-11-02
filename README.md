@@ -28,7 +28,7 @@
 <br>
 <br>
 <br>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineguimaraes&layout=compact" alt="jasmineguimaraes" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineguimaraes&show_icons=true" alt="jasmineguimaraes" /></p>
+  <p align =center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineguimaraes&layout=compact" alt="jasmineguimaraes" /></p> 
+<p align = center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineguimaraes&show_icons=true" alt="jasmineguimaraes" /></p>
 
  
