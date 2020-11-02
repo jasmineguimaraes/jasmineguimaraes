@@ -1,7 +1,7 @@
 
 <h1> Hello, I'm Jasmine! ✨ </h1>
 
-<p align = left>
+<p align = center>
  <a href="https://github.com/jasmineguimaraes?tab=repositories">
       <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" alt="my projects"/>
     </a> 
