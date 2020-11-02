@@ -1,5 +1,6 @@
 
-<h2 align=center> Hello, I'm Jasmine! <img align="center" width="150px" height="150px"  src="pusheen-pc.gif"/> </h2>
+<h2 align=center> Hello, I'm Jasmine! </h2>
+<img align="center" width="150px" height="150px"  src="pusheen-pc.gif"/>
 <h3 align="center"> ✨ welcome to my github page ✨</h3>
 
 <p align = center>
