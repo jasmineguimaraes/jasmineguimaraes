@@ -1,5 +1,5 @@
 
-<h2> Hello, I'm Jasmine! ✨ </h2> <img align="left" height="60" width ="50" src="pusheen.gif"/>
+<h2 align=center> Hello, I'm Jasmine! <img align="left" src="pusheen.gif"/> </h2> 
 
 <p align = center>
  <a href="https://github.com/jasmineguimaraes?tab=repositories">
