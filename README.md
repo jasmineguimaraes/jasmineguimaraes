@@ -18,14 +18,14 @@
 
     
 ``` diff
-- 💻  I'm a full-stack developer and infosec expert (to be) 
+- 💻  I'm a full-stack developer and infosec analyst 
 ! 🍓  I'm 23 years old
-- 📌  Currently based in Rio de Janeiro, Brazil
+- 📌  Currently based in São Paulo, Brazil
 ! 🏅  Javascript, CSS & HTML, Bootstrap and SQL
-- 📚  React, PHP, Node and Angular 
+- 📚  ReactJS and NodeJS
 ! 📜  My main goal is to always become a better professional, so I'll be always improving my skills 
 - 🎓 Information Systems undegrad @ UNIRIO (2023)
-! 🎓 Cybersecurity undergrad @ Estácio de Sá (2022)
+! 🎓 Cyber Defense undergrad @ Estácio de Sá (2022)
 - 💕 I enjoy good tv shows and films, cooking my own food and playing videogames
 ! 📭 Find me at jasmineguimaraes@gmail.com
 ```
