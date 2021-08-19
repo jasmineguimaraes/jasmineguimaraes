@@ -19,7 +19,7 @@
     
 ``` diff
 - 💻  I'm currently working as a data analyst at Shell
-! 🍓  I'm 23 years old
+! 🍓  I'm 24 years old
 - 📌  Currently based in São Paulo, Brazil
 ! 🎓 Information Systems undegrad @ UNIRIO (2023)
 - 🎓 Cyber Defense undergrad @ Estácio de Sá (2022)
